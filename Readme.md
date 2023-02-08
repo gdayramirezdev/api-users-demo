@@ -1,11 +1,8 @@
-# Nodejs Express TypeScript Eslint Prettier
-
-## Example API
+# Example API
 
     This is an API Users demo project using Postgresql, Nodejs, Express, TypeScript and Sequalize.
 
-### Databse
-    RUN 
+### Databse 
         -- Table: public.users
         -- DROP TABLE IF EXISTS public.users;
         CREATE TABLE IF NOT EXISTS public.users
